@@ -1,0 +1,15 @@
+[submodule "modules/dash-to-dock"]
+	path = modules/dash-to-dock
+	url = https://github.com/clarkhawk/dash-to-dock.git
+[submodule "modules/whitesur-icon-theme"]
+	path = modules/whitesur-icon-theme
+	url = https://github.com/clarkhawk/WhiteSur-icon-theme.git
+[submodule "modules/just-perfection"]
+	path = modules/just-perfection
+	url = https://github.com/clarkhawk/just-perfection.git
+[submodule "modules/blur-my-shell"]
+	path = modules/blur-my-shell
+	url = https://github.com/clarkhawk/blur-my-shell.git
+[submodule "modules/whitesur-gtk-theme"]
+	path = modules/whitesur-gtk-theme
+	url = https://github.com/clarkhawk/WhiteSur-gtk-theme.git
